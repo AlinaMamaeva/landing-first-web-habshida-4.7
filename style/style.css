@@ -184,6 +184,7 @@ form {
   padding-left: 20px;
 }
 
+
 .check_box {
   position: absolute;
   display: none;
@@ -237,12 +238,10 @@ form {
 }
 
 .agree {
-  width: 520px;
-position: absolute;
-float: left;
-right: 320px;
-margin-top: 3px;
-
+width: 520px;
+position: relative;
+right: 275px;
+top: 20px;
   
 }
 .btn {
